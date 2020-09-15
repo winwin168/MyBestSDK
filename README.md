@@ -1,2 +1,3 @@
 # MyBestSDK
-qipai
+棋牌sdk
+初始化
